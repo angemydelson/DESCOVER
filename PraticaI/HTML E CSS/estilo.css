@@ -1,0 +1,33 @@
+h1 {
+    color: rgb(25, 66, 108);
+}
+p {
+    color: rgb(18, 31, 221);
+    background: fixed;
+    background-color: cadetblue;
+}
+/* ID selector */
+#container {
+	width: 200px;
+}
+
+/* Class selector */
+.m-40 {
+	margin: 40px;
+}
+
+/* Element/Type selector + Agrupamento de seletores */
+h1, h2 {
+	color: blue;
+	font-size: 60px;
+	background: gray;
+}
+
+#angemy{
+    color: rgb(255, 0, 8);
+    border: solid red 1px;
+    margin: solid red;
+    padding: 100px blue;
+    background: rgb(79, 164, 206);
+
+}
